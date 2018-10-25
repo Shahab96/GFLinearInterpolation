@@ -1,3 +1,6 @@
+### Pre-requisites
+You must have NodeJs https://nodejs.org/en/ version 6.0 or greater to use this module.
+
 Instructions
 ============
 
